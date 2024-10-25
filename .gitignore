@@ -1,0 +1,5 @@
+/venv/
+/langchain_test/.chainlit/
+/langchain_test/__pycache__/
+chainlit.md
+setting.ini
