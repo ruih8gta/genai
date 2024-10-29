@@ -1,5 +1,6 @@
 /venv/
 /langchain_test/.chainlit/
 /langchain_test/__pycache__/
+/langchain_test/0.2.27
 chainlit.md
 setting.ini
